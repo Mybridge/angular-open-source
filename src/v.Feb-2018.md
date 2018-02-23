@@ -1,0 +1,76 @@
+# Python Top 10 Open Source Projects for the Past Month (v.Feb 2018)
+
+<img src="feb-angular-open-source.png" width="800" alt="Mybridge"></a>
+
+For the past month, we ranked nearly 150 Angular Open Source Projects to pick the Top 10. 
+We compared projects with new or major release during this period. Mybridge AI ranks projects based on a variety of factors to measure its quality for professionals.
+
+* Average number of Github stars in this edition: 1,690 ⭐️
+* Topics: Medium clone, UI Platform, Monorepo, TSLint, Material, NGRX, Electron, Bootstrap 4, Sound Cloud, Calendar
+
+Open source projects can be useful for programmers. Hope you find an interesting project that inspires you.
+
+<br>
+
+### Course of the month:
+
+A) Beginner: [Angular 5 (formerly Angular 2) - The Complete Guide.](http://bit.ly/2D82uW8) _[144,243 recommends, 4.7/5 stars]_
+
+<br>
+
+## Rank 1
+### [Angular-realworld-example-app: Medium clone built with Angular 5+ [★1460]](https://github.com/gothinkster/angular-realworld-example-app?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 2
+### [Covalent: Teradata UI Platform built on Angular-Material 2.0 [★1514]](https://github.com/teradata/covalent?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 3
+### [Ngrx Platform: Monorepo for ngrx codebase [★2168]](https://github.com/ngrx/platform?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 4
+### [Angular TSLint Preset: A preset with TSLint rules for development of Angular applications. [★59]](https://github.com/mgechev/tslint-angular?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 5
+### [Material-storybook: Material Demos using Storybook [★19]](https://github.com/amcdnl/material-storybook?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 6
+### [Ngrx-actions: Actions and Reducer Utilities for NGRX [★185]](https://github.com/amcdnl/ngrx-actions?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 7
+### [Angular-electron: Ultra-fast bootstrapping with Angular 5 and Electron (Typescript + SASS + Hot Reload) [★933]](https://github.com/maximegris/angular-electron?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 8
+### [CoreUI: Free Bootstrap 4 Admin Template (HTML5, AJAX, AngularJS, Angular2 and React) [★5729]](https://github.com/mrholek/CoreUI-Free-Bootstrap-Admin-Template?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 9
+### [Soundnode: Soundcloud for Desktop (Mac, Windows, and Linux), built with NW.js, Node.js, Angular.js, and with the Soundcloud API. [★4016]](https://github.com/Soundnode/soundnode-app?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+<br>
+
+## Rank 10
+### [Angular-calendar: A flexible calendar component for angular 5.0+ that can display events on a month, week or day view. [★820]](https://github.com/mattlewis92/angular-calendar?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
